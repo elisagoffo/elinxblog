@@ -3,14 +3,14 @@ email:              elisa.goffo96@gmail.com
 description:        Just a Blog
 author:             Elisa Goffo
 baseurl:            "/elinxblog"
-url:                "https://elisagoffo.github.io/elinxblog"
+url:                "https://elisagoffo.github.io/elinxblog/"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
-instagram_username:  
-linkedin_username:
+twitter_username:   ---
+github_username:    elisagoffo
+facebook_username:  ---
+instagram_username:  ---
+linkedin_username: ---
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
