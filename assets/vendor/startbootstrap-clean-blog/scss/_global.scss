@@ -1,7 +1,7 @@
 // Global styling for this template
 body {
     font-size: 20px;
-    color: $black /*$gray-900;*/
+    color: $gray-900;
 }
 
 p {
@@ -23,7 +23,7 @@ h6 {
 }
 
 a {
-    color: $black /*$gray-900;*/
+    color: $gray-900;
 
     &:focus,
     &:hover {
@@ -33,7 +33,7 @@ a {
 
 blockquote {
     font-style: italic;
-    color: $black /*$gray-600;*/
+    color: $gray-600;
 }
 
 .section-heading {
@@ -54,23 +54,23 @@ blockquote {
 }
 
 ::-moz-selection {
-    color: $black;
+    color: $white;
     background: $primary;
     text-shadow: none;
 }
 
 ::selection {
-    color: $black;
+    color: $white;
     background: $primary;
     text-shadow: none;
 }
 
 img::selection {
-    color: $black;
-    /*background: transparent;*/
+    color: $white;
+    background: transparent;
 }
 
 img::-moz-selection {
-    color: $black;
-    /*background: transparent;*/
+    color: $white;
+    background: transparent;
 }
